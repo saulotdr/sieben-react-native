@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# react-native
+# ios builds:
+ios/build/
+
+# android builds:
+android/app/build/
+*.keystore
+
